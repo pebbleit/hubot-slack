@@ -1,5 +1,5 @@
 # Description:
-#   Pugme is the most important thing in life
+#   Pugme is the most important thing in your life
 #
 # Dependencies:
 #   None
