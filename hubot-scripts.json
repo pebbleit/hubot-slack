@@ -1,1 +1,10 @@
-["redis-brain.coffee", "shipit.coffee", "itcrowd.coffee", "zendesk.coffee", "ackbar.coffee"]
+[
+    "redis-brain.coffee", 
+    "shipit.coffee", 
+    "itcrowd.coffee", 
+    "zendesk.coffee", 
+    "weather.coffee",
+    "whos-turn.coffee",
+    "weather.coffee",
+    "ackbar.coffee"
+]
